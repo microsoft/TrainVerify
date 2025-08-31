@@ -1,4 +1,4 @@
-name: verdict
+name: TrainVerify
 channels:
   - defaults
   - conda-forge
@@ -90,4 +90,3 @@ dependencies:
       - tzdata==2025.2
       - urllib3==2.4.0
       - z3-solver==4.15.1.0
-prefix: /home/azureuser/miniconda3/envs/verdict
