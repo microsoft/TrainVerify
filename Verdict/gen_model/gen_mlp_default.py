@@ -4,6 +4,7 @@
 import sys
 
 sys.path.append("..")
+sys.path.append("../nnscaler")
 sys.setrecursionlimit(10000)
 
 import os
